@@ -179,6 +179,9 @@ export default function AddMedicationForm() {
           />
         )}
       </View>
+
+      {/* Set Reminder Input */}
+      
     </View>
   );
 }
